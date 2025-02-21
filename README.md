@@ -31,7 +31,7 @@ I'm a passionate Cloud & DevOps Engineer, always learning and exploring new tech
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjeev-saravanan)
 
 ---
 💡 Always open to learning and collaborating on exciting projects!
