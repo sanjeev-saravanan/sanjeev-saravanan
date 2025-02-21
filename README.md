@@ -20,8 +20,17 @@ I'm a passionate Cloud & DevOps Engineer, always learning and exploring new tech
 ## 📜 Certifications
 
 <p align="center">
-  <img src=https://www.credly.com/badges/ae0ab199-c6cd-414a-984d-a58f6f308f43/public_url/>
-  <img src="https://images.credly.com/size/110x110/images/4f0a0f6f-08e5-4e1c-a671-4d6b09d18a23/image.png" alt="AWS Certified Solutions Architect - Associate"/>
+  <!-- AWS re/Start Graduate -->
+  <a href="https://www.credly.com/badges/ae0ab199-c6cd-414a-984d-a58f6f308f43/public_url">
+    <img src="https://images.credly.com/size/220x220/images/3dba39b6-d293-4b89-822f-cc1b8a9e6d60/image.png" 
+         alt="AWS re/Start Graduate"/>
+  </a>
+
+  <!-- AWS Certified Solutions Architect - Associate -->
+  <a href="https://www.credly.com/badges/258dd252-de1b-4f27-b1c9-0455f3befbe3/public_url">
+    <img src="https://images.credly.com/size/220x220/images/4f0a0f6f-08e5-4e1c-a671-4d6b09d18a23/image.png" 
+         alt="AWS Certified Solutions Architect - Associate"/>
+  </a>
 </p>
 
 ## 📊 GitHub Stats
