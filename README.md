@@ -20,7 +20,7 @@ I'm a passionate Cloud & DevOps Engineer, always learning and exploring new tech
 ## 📜 Certifications
 
 <p align="center">
-  <img src="https://images.credly.com/size/110x110/images/2a5b6e75-603d-4eff-aba9-7b1055357f5c/image.png" alt="AWS Certified Cloud Practitioner"/>
+  <img src=<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ae0ab199-c6cd-414a-984d-a58f6f308f43" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>/>
   <img src="https://images.credly.com/size/110x110/images/4f0a0f6f-08e5-4e1c-a671-4d6b09d18a23/image.png" alt="AWS Certified Solutions Architect - Associate"/>
 </p>
 
