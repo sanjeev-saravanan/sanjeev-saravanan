@@ -22,12 +22,6 @@ I'm a passionate Cloud & DevOps Engineer, always learning and exploring new tech
 [![AWS re/Start Graduate](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](https://www.credly.com/badges/ae0ab199-c6cd-414a-984d-a58f6f308f43/public_url)
 [![AWS Certified Solutions Architect - Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/258dd252-de1b-4f27-b1c9-0455f3befbe3/public_url)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak"/>
-</p>
 
 ## 📫 Connect with Me
 
