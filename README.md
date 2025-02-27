@@ -32,8 +32,14 @@ I'm a passionate Cloud & DevOps Engineer, always learning and exploring new tech
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjeev-saravanan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://twitter.com/your_twitter_handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
 ---
+
+## 🌱 What I'm Learning  
+- Advanced Kubernetes concepts (Ingress, HPA, RBAC)  
+- Cost optimization strategies for AWS  
+- Security best practices in DevOps  
+
+
 💡 Always open to learning and collaborating on exciting projects!
