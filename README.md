@@ -21,9 +21,10 @@ I'm a passionate Cloud & DevOps Engineer, always learning and exploring new tech
 [![AWS Certified Solutions Architect - Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/258dd252-de1b-4f27-b1c9-0455f3befbe3/public_url)
 
 ## 🌱 What I'm Learning  
-- Advanced Kubernetes concepts (Ingress, HPA, RBAC)  
+- Advanced Kubernetes concepts (Servicemesh, Gitops)  
 - Cost optimization strategies for AWS  
 - Security best practices in DevOps 
+- Event-driven architectures in AWS
 
 ## 📫 Connect with Me
 <p align="center">
