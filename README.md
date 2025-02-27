@@ -6,7 +6,7 @@ I'm a passionate Cloud & DevOps Engineer, always learning and exploring new tech
 
 ## 🛠️ Skills & Technologies
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/Networking-0078D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
