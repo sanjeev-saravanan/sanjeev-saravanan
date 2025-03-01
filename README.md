@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Sanjeev Saravanan!  
 ### ☁️ *Cloud & Coffee Addict* ☕  
 
-I’m a 2024 B.E. CSE grad  who lives for the cloud—building it, breaking it, and patching it up like a pro. Hand me Docker, AWS, or a solid cup of coffee, and I’m unstoppable! 
+I’m a 2024 B.E. CSE grad  who lives for the cloud—building it, breaking it and patching it up like a pro. Hand me Docker, AWS or a solid cup of coffee and I’m unstoppable! 
 
 ---
 
