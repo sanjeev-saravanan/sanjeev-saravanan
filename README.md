@@ -6,15 +6,15 @@ I’m a 2024 B.E. CSE grad  who lives for the cloud—building it, breaking it, 
 ---
 
 ## 🛠️ What I Play With  
-- **Cloud & DevOps Goodies**: Linux, Git, Jenkins, Docker, Kubernetes, Terraform, AWS  
+- **Cloud & DevOps Goodies**: Linux, Git, Jenkins, Docker, Kubernetes, Terraform, AWS   
 - **Badges**:  
-  ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)  
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-  ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins)  
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes)  
-  ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform)  
-  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)  
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
+  ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)   
 
 ---
 
@@ -31,7 +31,7 @@ I’m a 2024 B.E. CSE grad  who lives for the cloud—building it, breaking it, 
 ## 🏆 Certified Cloud Guy  
 - **AWS Solutions Architect Associate (SAA-C03)**  
   Officially too cool for un-architected clouds 🌩️  
-  [![AWS SAA-C03](https://images.credly.com/size/110x110/images/2c3f8e4b-8aca-4d55-8c76-75ff12db80e3/image.png)](https://www.credly.com/badges/258dd252-de1b-4f27-b1c9-0455f3befbe3/public_url)  
+  [![AWS SAA-C03](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/258dd252-de1b-4f27-b1c9-0455f3befbe3/public_url)  
 
 ---
 
