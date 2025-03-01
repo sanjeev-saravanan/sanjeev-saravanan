@@ -16,7 +16,7 @@ I’m a 2024 B.E. CSE grad  who lives for the cloud—building it, breaking it, 
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   </div>
  ---
 
@@ -34,11 +34,6 @@ I’m a 2024 B.E. CSE grad  who lives for the cloud—building it, breaking it, 
 - **AWS Solutions Architect Associate (SAA-C03)**  
   Officially too cool for un-architected clouds 🌩️  
   [![AWS SAA-C03](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/258dd252-de1b-4f27-b1c9-0455f3befbe3/public_url)  
-
----
-
-## ☕ Fun Fact  
-I debug code faster than I finish my coffee—and that’s saying something!  
 
 ---
 
