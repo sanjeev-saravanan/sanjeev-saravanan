@@ -18,16 +18,6 @@ I’m a 2024 B.E. CSE grad  who lives for the cloud—building it, breaking it a
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   </div>
- ---
-
-## 🌟 Projects I’m Proud Of  
-- **[KubeFlowOps](https://github.com/sanjeev-saravanan/KubeFlowOps-Secure-Automated-CI-CD-for-Kubernetes)**  
-  Secure CI/CD pipeline for Kubernetes—clusters deserve love too! 🐳  
-- **[Automated REST API Deployment](https://github.com/sanjeev-saravanan/Automated-REST-API-Deployment-with-Terraform-Jenkins-and-AWS)**  
-  Jenkins + Terraform + AWS = API deployment on autopilot. 💥  
-- **[Scalable Secure App on AWS](https://github.com/sanjeev-saravanan/Scalable-Secure-App-Deployment-on-AWS)**  
-  Bulletproof app setup on AWS—scalable and secure! 🔒  
-
 ---
 
 ## 🏆 Certified Cloud Guy  
