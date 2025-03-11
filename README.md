@@ -15,7 +15,6 @@ I’m a 2024 B.E. CSE grad  who lives for the cloud—building it, breaking it a
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   </div>
----
 
 ## 🏆 Certified Cloud Guy  
 - **AWS Solutions Architect Associate (SAA-C03)**  
