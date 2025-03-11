@@ -6,9 +6,6 @@ I’m a 2024 B.E. CSE grad  who lives for the cloud—building it, breaking it a
 ---
 
 ## 🛠️ What I Play With  
-- **Cloud & DevOps Goodies**: Linux, Git, Jenkins, Docker, Kubernetes, Terraform, AWS   
-- **Badges**:
-  
   <div>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
